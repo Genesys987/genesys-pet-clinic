@@ -63,6 +63,7 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:Genesys987/genesys-pet-clinic.git</developerConnection>
+        <tag>HEAD</tag>
     </scm>
 
 </project>
