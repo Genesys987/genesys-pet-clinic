@@ -1,4 +1,4 @@
-package com.example.genesyspetclinic;
+package genesyspetclinic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
