@@ -19,7 +19,7 @@
     <name>genesys-pet-clinic</name>
     <description>genesys-pet-clinic</description>
     <properties>
-        <java.version>17</java.version>
+        <java.version>11</java.version>
     </properties>
     <dependencies>
         <dependency>
